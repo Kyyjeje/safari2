@@ -13,10 +13,10 @@ const __filename = fileURLToPath(import.meta.url);
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["6282113821188"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.owner = ["6283119847840"] // ['628','628'] 2 owner atau lebih
+global.author = 'RISKY 260105'
+global.botname = 'Safari Bot'
+global.packname = 'Safaribot•083119847840'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
 global.listprefix = ["+","!","."]
@@ -37,14 +37,14 @@ global.fake = {
 }
 
 global.my = {
-	yt: "https://youtube.com/c/Nazedev",
-	gh: "https://github.com/nazedev",
-	gc: "https://chat.whatsapp.com/EqMTCcxdCZgHUJNl5KooCr",
-	ch: "120363250409960161@newsletter"
+	yt: "https://youtube.com/c/kyyeveryday",
+	gh: "https://github.com/kyyjeje",
+	gc: "https://chat.whatsapp.com/CYE1Pxatym169QUC8PjC3k",
+	ch: "1120363331608453502@newsletter"
 }
 
 global.limit = {
-	free: 20,
+	free: 10,
 	premium: 999,
 	vip: 900
 }
