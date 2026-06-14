@@ -55,8 +55,8 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/kyyjeje/safari2
+cd safari2
 npm install
 ```
 [ RECOMMENDED INSTALL ON TERMUX ]
