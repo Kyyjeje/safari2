@@ -286,6 +286,6 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Thanks to
 
-| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![kyyjeje](https://github.com/kyyjeje.png?size=100)](https://github.com/kyyjeje) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
+| [![kyyjeje](https://github.com/kyyjeje.png?size=100)](https://github.com/kyyjeje) 
 | --- | --- | --- | --- |
-| [NazeDev](https://github.com/nazedev) | [kyyjeje](https://github.com/kyyjeje) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+| [kyyjeje](https://github.com/kyyjeje) 
